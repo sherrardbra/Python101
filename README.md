@@ -1,2 +1,2 @@
 # Python101
-This repository will serve as a library documenting my progression learning Python, starting from the beginning.
+This repository will document my progression learning data analysis on a basic level using Python.
