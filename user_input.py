@@ -63,33 +63,3 @@ number1 = float(input("First Number: "))
 number2 = float(input("Second Number: "))
 combined = number1*number2
 print(combined)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
